@@ -1,0 +1,12 @@
+version: '3.3'
+
+services: 
+  web:
+    image: node:16.13.0
+    working_dir: /src
+    volumes:
+      - ./src:/src
+    ports:
+      - 3000:3000
+    command: "npm run dev"
+    restart: unless-stopped
