@@ -5,7 +5,7 @@ export default {
   },
 
   router: {
-    base: 'https://github.com/felixleo22/'
+    base: process.env.NODE_ENV === 'production' ? 'https://github.com/felixleo22/' : ''
   },
 
   ssr: false,
