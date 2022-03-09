@@ -4,10 +4,6 @@ export default {
     port: 3000,
   },
 
-  router: {
-    base: 'https://github.com/felixleo22/me'
-  },
-
   ssr: false,
 
   components: true,
