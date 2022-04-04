@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{279:function(e,n,t){"use strict";t.r(n);var r={name:"GamesPage"},c=t(76),l=t(263),o=t.n(l),w=t(278),component=Object(c.a)(r,(function(){var e=this,n=e.$createElement;return(e._self._c||n)("v-card",[e._v("\n  GamesPage\n")])}),[],!1,null,null,null);n.default=component.exports;o()(component,{VCard:w.a})}}]);

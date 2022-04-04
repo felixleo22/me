@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{280:function(n,e,r){"use strict";r.r(e);var t={name:"SkyrimPage"},c=r(76),l=r(263),o=r.n(l),w=r(278),component=Object(c.a)(t,(function(){var n=this,e=n.$createElement;return(n._self._c||e)("v-card",[n._v("\n  SkyrimPage\n")])}),[],!1,null,null,null);e.default=component.exports;o()(component,{VCard:w.a})}}]);
