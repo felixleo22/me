@@ -9,12 +9,11 @@ export default {
     port: 3000
   },
 
-  router: {
-    base: process.env.NODE_ENV === 'production' ? 'https://github.com/felixleo22/' : ''
-  },
-
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  router: {
+    base: '/me/'
+  },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
